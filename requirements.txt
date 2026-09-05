@@ -1,0 +1,9 @@
+streamlit
+pandas
+plotly
+requests
+python-dotenv
+github-copilot-sdk
+reportlab
+python-pptx
+kaleido
